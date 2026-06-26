@@ -1,7 +1,7 @@
 # Description 
 - This projects aims to cover the caretaking and treatment of stray animals without necessarily adopting them and keeping them in their familiar place. 
 - It is for animal advocates that want to care for stray animals but are unable to adopt them and provide continous caretaking due to distance or other reasons. 
-- Community can keep track of stray animals wellbeing through status updates leveraging comfort and ease in caretaking 
+- Community can keep track of stray animals wellbeing through status updates leveraging comfort and ease in caretaking.
 
 # Scope
 1. Must-have: 
